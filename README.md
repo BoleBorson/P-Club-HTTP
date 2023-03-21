@@ -20,4 +20,4 @@
 
 4. To start the server run the following command: 
     
-    "flask --app hello run"
+    "flask --app server run"
